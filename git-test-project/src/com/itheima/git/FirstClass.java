@@ -8,11 +8,13 @@ public class FirstClass {
         System.out.println("hello ");
         System.out.println("hello ");
         System.out.println("hello ");
+        //test
 
     }
     public void test(){
         int i=0;
         i++;
+        System.out.println(i);
     }
 
 }
